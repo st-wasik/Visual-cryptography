@@ -1,0 +1,8 @@
+.stack-work/
+visual-cryptography.cabal
+*~
+*.7z
+*.png
+*.jpg
+*.zip
+!/app/cpp.png
